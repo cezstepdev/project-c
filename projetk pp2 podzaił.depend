@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1559149930 source:d:\pp2 c\projetk pp2 podzai許main.c
+	"struktury.h"
+	"dodwys.h"
+	"grupy.h"
+	"zapisplik.h"
+	"edycja.h"
+	"sortowanie.h"
+	"usuwanie.h"
+
+1559149930 d:\pp2 c\projetk pp2 podzai許struktury.h
+	"naglowki.h"
+
+1559146424 d:\pp2 c\projetk pp2 podzai許naglowki.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1559149765 source:d:\pp2 c\projetk pp2 podzai許dodwys.c
+	"dodwys.h"
+
+1559149456 d:\pp2 c\projetk pp2 podzai許dodwys.h
+	"naglowki.h"
+	"struktury.h"
+
+1559149930 source:d:\pp2 c\projetk pp2 podzai許struktury.c
+	"struktury.h"
+
+1559148443 source:d:\pp2 c\projetk pp2 podzai許grupy.c
+	"grupy.h"
+
+1559148443 d:\pp2 c\projetk pp2 podzai許grupy.h
+	"naglowki.h"
+	"struktury.h"
+
+1559148861 d:\pp2 c\projetk pp2 podzai許zapisplik.h
+	"naglowki.h"
+	"struktury.h"
+
+1559148740 source:d:\pp2 c\projetk pp2 podzai許zapisplik.c
+	"zapisplik.h"
+	"dodwys.h"
+
+1559149225 source:d:\pp2 c\projetk pp2 podzai許edycja.c
+	"edycja.h"
+	"dodwys.h"
+
+1559149209 d:\pp2 c\projetk pp2 podzai許edycja.h
+	"naglowki.h"
+	"struktury.h"
+
+1559149765 d:\pp2 c\projetk pp2 podzai許sortowanie.h
+	"naglowki.h"
+	"struktury.h"
+
+1559149775 source:d:\pp2 c\projetk pp2 podzai許sortowanie.c
+	"sortowanie.h"
+	"dodwys.h"
+
+1559149930 d:\pp2 c\projetk pp2 podzai許usuwanie.h
+	"naglowki.h"
+	"struktury.h"
+
+1559294258 source:c:\users\admin\desktop\projetk pp2 podzai許dodwys.c
+	"dodwys.h"
+
+1559149456 c:\users\admin\desktop\projetk pp2 podzai許dodwys.h
+	"naglowki.h"
+	"struktury.h"
+
+1559146424 c:\users\admin\desktop\projetk pp2 podzai許naglowki.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1559680230 c:\users\admin\desktop\projetk pp2 podzai許struktury.h
+	"naglowki.h"
+
+1559297239 source:c:\users\admin\desktop\projetk pp2 podzai許edycja.c
+	"edycja.h"
+	"dodwys.h"
+
+1559149209 c:\users\admin\desktop\projetk pp2 podzai許edycja.h
+	"naglowki.h"
+	"struktury.h"
+
+1559297239 source:c:\users\admin\desktop\projetk pp2 podzai許grupy.c
+	"grupy.h"
+
+1559297303 c:\users\admin\desktop\projetk pp2 podzai許grupy.h
+	"naglowki.h"
+	"struktury.h"
+	"dodwys.h"
+
+1559295918 source:c:\users\admin\desktop\projetk pp2 podzai許main.c
+	"struktury.h"
+	"dodwys.h"
+	"grupy.h"
+	"zapisplik.h"
+	"edycja.h"
+	"sortowanie.h"
+	"usuwanie.h"
+
+1559148861 c:\users\admin\desktop\projetk pp2 podzai許zapisplik.h
+	"naglowki.h"
+	"struktury.h"
+
+1559149765 c:\users\admin\desktop\projetk pp2 podzai許sortowanie.h
+	"naglowki.h"
+	"struktury.h"
+
+1559149930 c:\users\admin\desktop\projetk pp2 podzai許usuwanie.h
+	"naglowki.h"
+	"struktury.h"
+
+1559153115 source:c:\users\admin\desktop\projetk pp2 podzai許sortowanie.c
+	"sortowanie.h"
+	"dodwys.h"
+
+1559158492 source:c:\users\admin\desktop\projetk pp2 podzai許usuwanie.c
+	"usuwanie.h"
+	"dodwys.h"
+
+1559293802 source:c:\users\admin\desktop\projetk pp2 podzai許zapisplik.c
+	"zapisplik.h"
+	"dodwys.h"
+
